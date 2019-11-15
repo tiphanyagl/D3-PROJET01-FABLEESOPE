@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Quicksand&display=swap');
+
+header {
+font-family: 'Playfair Display';
+}
+
+
+h1 {
+  font-family: 'Playfair Display';
+}
+
+.moral {
+
+  font-family: 'Quicksand';
+}
+
+#fable01 {
+  color: #2B211E;
+  font-family: 'Quicksand';
+}
+
+#fable01 h1 {
+  color: #2B211E;
+
+}
+
+#fable02 {
+  color: #2B211E;
+  font-family: 'Quicksand';
+}
+
+#fable02 h1 {
+  color: #2B211E;
+
+
+}
+#fable03 {
+  color: #BB9690;
+  font-family: 'Quicksand';
+}
+
+#fable03 h1{
+  color: #C49888;
+
+}

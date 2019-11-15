@@ -1,0 +1,77 @@
+header {
+  text-align: center;
+  padding: 32px;
+  background: #fff  url('images/3.jpg') top;
+}
+
+h1 {
+color: #000000;
+}
+
+.moral {
+text-align: center;
+  padding: 10px;
+  border-style: dotted;
+  border-color: #948684;
+}
+
+
+section {
+min-height: 80vh;
+
+}
+
+#fable01 {
+  background: #BB9690 url('images/bear.jpg')center;
+
+  padding: 20px;
+  padding-right: 500px;
+  min-height: 80vh;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  text-align:justify;
+
+}
+
+#fable01 h1 {
+  font-size: 60px;
+  text-align:left;
+
+}
+
+#fable02 {
+background: #421705 url('images/test.jpg') right;
+background-attachment: fixed;
+align-items: center;
+justify-content: center;
+background-size: cover;
+padding: 20px;
+text-align: justify;
+padding-left: 500px;
+min-height: 70vh;
+}
+
+
+
+#fable02 h1 {
+  font-size: 60px;
+  text-align:right;
+
+}
+
+#fable03 {
+
+  background: #5C473F url('images/lion.jpg')right;
+  padding: 20px;
+  min-height: 70vh;
+  padding-left: 250px;
+  padding-right: 250px;
+
+}
+
+#fable03 h1 {
+  font-size: 60px;
+  text-align:center;
+
+}
